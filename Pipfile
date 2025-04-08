@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-streamlit = "*"
-libratom = "*"
-beautifulsoup4 = "*"
+streamlit==1.44.1
+libratom==0.7.1
+beautifulsoup4==4.11.1
 
 [dev-packages]
 
